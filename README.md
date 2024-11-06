@@ -25,7 +25,7 @@
 - <b>Wazuh</b>
   - [Installing Wazuh single]
   - [Installing Wazuh multiple host]
-  - [Installing Wazuh 0365]
+  - [Integrating Wazuh 0365]
   - [Integrating Wazuh w/ Tines]
   - [Integrating Wazuh w/ Shuffler]
   - [Integrating Wazuh w/ MISP]
